@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <img alt="BigAhhZip: More the Better!"
-         src="assets/bazGit.png"
+         src="https://github.com/SynthouS/BigAhhZip/raw/main/assets/bazGit.png"
          width="50%">
   </picture>
 
