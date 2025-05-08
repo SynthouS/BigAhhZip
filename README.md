@@ -42,7 +42,7 @@ bigahhzip unmake ./your_folder.baz  # Extracts to your_folder/
 
 - Preserves directory structure
 
-- Uses custom .baz format (Big Annoying Zip)
+- Uses custom .baz format (Big Ahh Zip)
 
 # Example Workflow
 ```bash
